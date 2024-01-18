@@ -1,5 +1,8 @@
 ## Air Quality Index Frontend App
 
+![GitHub Workflow Status](https://github.com/airqi-com/frontend/actions/workflows/node.js.yml/badge.svg?branch=master)
+![GitHub license](https://img.shields.io/github/license/airqi-com/frontend)
+
 This frontend app provides current, forecast, and historical air pollution data for any coordinates on the globe. Besides basic Air Quality Index, the app returns data about polluting gases, such as Carbon monoxide (CO), Nitrogen monoxide (NO), Nitrogen dioxide (NO2), Ozone (O3), Sulphur dioxide (SO2), Ammonia (NH3), and particulates (PM2.5 and PM10).
 ![image](https://github.com/airqi-com/frontend/assets/15163891/be47e7b5-7aa8-4ad0-a627-5f06e33d509a)
 
