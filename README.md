@@ -1,6 +1,7 @@
 ## Air Quality Index Frontend App
 
 This frontend app provides current, forecast, and historical air pollution data for any coordinates on the globe. Besides basic Air Quality Index, the app returns data about polluting gases, such as Carbon monoxide (CO), Nitrogen monoxide (NO), Nitrogen dioxide (NO2), Ozone (O3), Sulphur dioxide (SO2), Ammonia (NH3), and particulates (PM2.5 and PM10).
+![image](https://github.com/airqi-com/frontend/assets/15163891/be47e7b5-7aa8-4ad0-a627-5f06e33d509a)
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
@@ -43,9 +44,6 @@ Open `localhost:3000` in your browser to see the application.
 ## Air Pollution Index Levels Scale
 Below is a description of Europe Air Quality Index levels: [https://openweathermap.org/air-pollution-index-levels](https://openweathermap.org/air-pollution-index-levels)
 
-## Using the World Air Quality index API to make pollution maps
-Visit [this link](https://flothesof.github.io/world-air-quality-pollution-maps.html) to learn more about using the World Air Quality index API to make pollution maps.
-
 ## Data Format
 Here is an example of the data format:
 
@@ -65,7 +63,7 @@ Here is an example of the data format:
            "121.4489017"
         ]
      },
-     iaqi: {
+     "iaqi": {
         "pm25": "..."
      }
   }
